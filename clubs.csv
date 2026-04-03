@@ -1,25 +1,25 @@
 name,logo (key),website,Address 1,Address 2,city,state,geo,map,directions,start,end,price,levels
 Acey Duceys,AceyDuceys.png,,Edwards Church Christ,3420 Jersey Ridge Rd,Davenport,IA,"41.5550615,-90.5455025",,EdwardsChurch.txt,06:30 PM,08:30 PM,,A
-Ankeny Squares,ankenysquares.jpg,https://www.ankenysquares.com/,St. Paul Lutheran,1100 SE Sharon,Ankeny,IA,"41.7189315,-93.5919964",AnkenyMap.png,ankeny.txt,07:00 PM,09:30 PM,,MPR
-Ankeny Squares,ankenysquares_DSM.jpg,https://www.ankenysquares.com/,Douglas Avenue Presbyterian,4601 Douglas Ave,Des Moines,IA,"41.6298514,-93.6840905",AnkenyMap.png,ankeny_DSM.txt,07:00 PM,09:30 PM,,MPR
+Ankeny Squares,ankenysquares.jpg,https://www.ankenysquares.com/,St. Paul Lutheran,1100 SE Sharon,Ankeny,IA,"41.7189315,-93.5919964",AnkenyMap.png,ankeny.txt,07:00 PM,09:30 PM,,MP2
+Ankeny Squares,ankenysquares_DSM.jpg,https://www.ankenysquares.com/,Douglas Avenue Presbyterian,4601 Douglas Ave,Des Moines,IA,"41.6298514,-93.6840905",AnkenyMap.png,ankeny_DSM.txt,07:00 PM,09:30 PM,,MP2
 Circle Square B Promenaders,circlesquareb.png,https://circle-square-b.mailchimpsites.com/,IOOF Hall,(by Post Office),Wever,IA,"40.711096, -91.230198",,Wever.txt,06:30 PM,08:30 PM,,M
-Circulators,circulators.png,http://iowasquaredance.net/circulators/,Cedar Falls Rec Center,110 E 13th Street,Cedar Falls,IA,"42.5267404,-92.4443272",,CedarFalls.txt,02:00 PM,04:30 PM,,MPR
-Dudes ‘n’ Dolls,dudesdolls.png,,1st Presbyterian Church,228 W 4th St.,Ottumwa,IA,"41.0209343,-92.4136258",,Ottumwa.txt,07:00 PM,09:30 PM,,MPR
-GGG,gggLogo.png,,Gilbert Elementary School Gym,109 Rothmoor Dr.,Gilbert,IA,"42.105461,-93.64567",,gilbert.txt,07:00 PM,09:30 PM,Guests $10,MPR
-Heartland Singles,heartland.jpg,https://www.squaredancene.org/clubs/heartland/,Rockbrook Methodist,9855 West Center Road,Omana,NE,"41.2338682,-96.0689638",,,07:30 PM,10:00 PM,,MR
+Circulators,circulators.png,http://iowasquaredance.net/circulators/,Cedar Falls Rec Center,110 E 13th Street,Cedar Falls,IA,"42.5267404,-92.4443272",,CedarFalls.txt,02:00 PM,04:30 PM,,MP2
+Dudes ‘n’ Dolls,dudesdolls.png,,1st Presbyterian Church,228 W 4th St.,Ottumwa,IA,"41.0209343,-92.4136258",,Ottumwa.txt,07:00 PM,09:30 PM,,MP2
+GGG,gggLogo.png,,Gilbert Elementary School Gym,109 Rothmoor Dr.,Gilbert,IA,"42.105461,-93.64567",,gilbert.txt,07:00 PM,09:30 PM,Guests $10,MP2
+Heartland Singles,heartland.jpg,https://www.squaredancene.org/clubs/heartland/,Rockbrook Methodist,9855 West Center Road,Omana,NE,"41.2338682,-96.0689638",,,07:30 PM,10:00 PM,,M2
 Lads & Lassies,LadsNLassies.jpg,,ISU Extension Ctr,210 N Iowa St,Knoxville,IA,"41.320195, -93.106079",,Knoxville.txt,07:00 PM,09:30 PM,,MPL
 Lads & Lassies,LadsNLassies_2.jpg,,Marion County Campground,,Knoxville,IA,,,,,,,MPL
 Little Dixie Squares,LittleDixie.jpg,https://www.squaredancemissouri.com/Missouri/Club/Little_Dixie_Squares/,Trinity Methodist Church,101 S 4th St,Moberly,MO,"39.4185618,-92.4433098",,,07:30 PM,09:30:00 PM,,MP
 Loess Hills,LoessHills.jpg,https://www.squaredancene.org/clubs/loess/,The Parlor,116 S. 6th St.,"Missouri Valley,",IA,"41.555797,-95.8874193",,,07:00 PM,09:30 PM,,
 Maysville Wranglers,Maysville.gif,,Maysville High School,601 West Main Street,Maysville,MO,"39.8905567,-94.3681611",,,07:00 PM,09:30 PM,,MPL
-Merry Rounders,MerryRounders.jpeg,http://iowasquaredance.net/merry-rounders-round-dance-club/,Edwards Church Christ,3420 Jersey Ridge Rd,Davenport,IA,"41.5550615,-90.5455025",,EdwardsChurch.txt,07:00 PM,09:00 PM,,R
+Merry Rounders,MerryRounders.jpeg,http://iowasquaredance.net/merry-rounders-round-dance-club/,Edwards Church Christ,3420 Jersey Ridge Rd,Davenport,IA,"41.5550615,-90.5455025",,EdwardsChurch.txt,07:00 PM,09:00 PM,,"2,3"
 Morrison Grand Squares,Morrison.jpeg,,Odell Library Community Room,307 S Madison,Morrison,IL,"41.8056902,-89.9687354",,Morrison.txt,02:00 PM,04:30 PM,,MP
 Peppy Promenaders,Peppy.jpeg,https://www.squaredancemissouri.com/Missouri/Club/Peppy_Promenaders/,Grand River Multi-Purpose Center,607 W. Business Route 36,Chillicothe,MO,"39.7767746,-93.5553529",,,07:00 PM,09:30 PM,,M
 Petticoats Junction,PetticoatsJunction.jpg,,Humeston Community Center,100 N Eaton,Humeston,IA,"40.859259, -93.497996",,Humeston.txt,02:00 PM,04:30 PM,,MP
 QC Cloggers,QC_Cloggers.jpg,https://www.illinoissquaredance.org/projects/quad-city-cloggers,Revive & Renew Café,4360 Kennedy Dr. ,East Moline,IL,"41.486913,-90.4562279",,EastMoline.txt,04:00 PM,06:00 PM,,clog
 Rapid Eights,Rapid8s.jpeg,,Toddville Legion Hall,3275 Otter Rd,Toddville,IA,"42.10038,-91.71663",,toddville.txt,02:00 PM,04:30 PM,,MP
-Solo Steppers,solosteppers.png,,Newcomb Presbyterian Church,2619 N. Division St.,Davenport,IA,"41.5459621,-90.6028968",,,07:00 PM,09:30 PM,,MPR
-Stardusters,stardusters.jpg,http://iowasquaredance.net/stardusters/,Smith’s Dancing Meadows,1503 190th Street,Waverly,IA,"42.7739425,-92.457185",,,07:00 PM,09:30 PM,,MPR
+Solo Steppers,solosteppers.png,,Newcomb Presbyterian Church,2619 N. Division St.,Davenport,IA,"41.5459621,-90.6028968",,,07:00 PM,09:30 PM,,MP2
+Stardusters,stardusters.jpg,http://iowasquaredance.net/stardusters/,Smith’s Dancing Meadows,1503 190th Street,Waverly,IA,"42.7739425,-92.457185",,,07:00 PM,09:30 PM,,MP2
 Tanglefoot Squares ,Tanglefoot.jpg,https://www.squaredancemissouri.com/Missouri/Club/Tanglefoot_Squares/,Trinity United Methodist,224 South Main Street,Brookfield,MO,"39.7820854,-93.0755355",,,07:00 PM,09:30 PM,,
 Union Squares,UnionSquares.jpeg,,Crest City Lodge,217 N. Pine,Creston,IA,"41.0591421,-94.3636905",,Creston.txt,02:00 PM,04:30 PM,,MP
-Wheel ‘N Steppers,WheelSteppers.jpg,,Edwards Church Christ,3420 Jersey Ridge Rd,Davenport,IA,"41.5550615,-90.5455025",,EdwardsChurch.txt,07:00 PM,09:30 PM,,MPR
+Wheel ‘N Steppers,WheelSteppers.jpg,,Edwards Church Christ,3420 Jersey Ridge Rd,Davenport,IA,"41.5550615,-90.5455025",,EdwardsChurch.txt,07:00 PM,09:30 PM,,MP2
